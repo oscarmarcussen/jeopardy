@@ -1,0 +1,212 @@
+{
+ "title": "Jeopardy!",
+ "subtitle": "25+1-utgaven",
+ "values": [
+  100,
+  200,
+  300,
+  400,
+  500
+ ],
+ "categories": [
+  {
+   "name": "Bursdagsbarnet",
+   "clues": [
+    {
+     "q": "Hva heter søsteren til Oscar?",
+     "a": "Miriam «off limits» Marcussen"
+    },
+    {
+     "q": "Hva heter båten til Oscar og Louis?",
+     "img": "oscar-200-baat.jpg",
+     "a": "Oda III"
+    },
+    {
+     "q": "Hva heter den siste sertifiseringen Oscar tok?",
+     "aImg": "oscar-300-sertifisering.jpg",
+     "a": "Claude Certified Architect – Fundamentals"
+    },
+    {
+     "q": "Hvor mange revyer har Oscar vært skuespiller i? (vgs + linjeforening)",
+     "img": "oscar-400-revy.jpg",
+     "a": "5"
+    },
+    {
+     "q": "Hvilken plass kom Stabæk Gutt (14–16 år) på i NM 2017?",
+     "aImg": "oscar-500-nm2017.jpg",
+     "a": "2. plass"
+    }
+   ]
+  },
+  {
+   "name": "Bandy",
+   "clues": [
+    {
+     "q": "Hvor mange spillere er det på hvert lag i en standard bandykamp?",
+     "a": "11"
+    },
+    {
+     "q": "Hvilken farge er en bandyball?",
+     "aImg": "bandy-200-ball.jpg",
+     "a": "Rosa"
+    },
+    {
+     "q": "Hvilket lag har flest NM-titler i bandy?",
+     "aImg": "bandy-300-nm-titler.jpg",
+     "a": "Stabæk"
+    },
+    {
+     "q": "Hvilken av disse skøytene har «bandy-jern»?",
+     "img": "bandy-skoyter.jpg",
+     "a": "Den til høyre"
+    },
+    {
+     "q": "Hva heter hjemmebanen til Stabæk Bandy?",
+     "img": "stabekkbanen.jpg",
+     "a": "Stabekkbanen (Plassen)"
+    }
+   ]
+  },
+  {
+   "name": "Hvem er dette?",
+   "clues": [
+    {
+     "q": "Hvem er dette?",
+     "img": "hvem-100.jpg",
+     "a": "Tung Tung Tung Sahur"
+    },
+    {
+     "q": "Hvem er dette?",
+     "img": "hvem-200.webp",
+     "a": "Cappuccino Assassino"
+    },
+    {
+     "q": "Hvem er dette?",
+     "img": "hvem-300.webp",
+     "a": "Bombombini Gusini"
+    },
+    {
+     "q": "Hvem er dette?",
+     "img": "hvem-400.jpg",
+     "a": "Brr Brr Patapim"
+    },
+    {
+     "q": "Hvem er dette?",
+     "img": "hvem-500.webp",
+     "a": "Lirilì Larilà"
+    }
+   ]
+  },
+  {
+   "name": "Norsk TV-gull",
+   "sub": "Fullfør setningen",
+   "clues": [
+    {
+     "q": "Fullfør setningen …",
+     "label": "Kem var det som sprøyta vindusvisker, på meg",
+     "video": "clip1.mp4",
+     "start": 0,
+     "pause": 8,
+     "end": 11.8,
+     "a": "«kan du melda deg, til politiet»",
+     "rate": 1
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Tengfei",
+     "video": "clip2.mp4",
+     "start": 0,
+     "pause": 15.2,
+     "end": 17,
+     "rate": 0.75,
+     "a": "«Tannfe…?»"
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Ekstremt overdreven bruk av nasal stemme",
+     "video": "clip3.mp4",
+     "start": 0,
+     "pause": 6,
+     "end": 11,
+     "a": "«overdreven bruk av nasal stemme…?»"
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Kreft i hendene",
+     "video": "clip4.mp4",
+     "start": 0,
+     "pause": 13.6,
+     "end": 15.2,
+     "mask": 0.74,
+     "a": "«Ah, kreft i hendene»",
+     "rate": 1
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Raske menn – Verdenshistorien",
+     "video": "clip5.mp4",
+     "start": 0,
+     "pause": 13,
+     "end": 19.7,
+     "a": "«I have just arrived in my fantastic boat Kon Tiki 5»",
+     "rate": 1
+    }
+   ]
+  },
+  {
+   "name": "Memes",
+   "sub": "Fullfør setningen",
+   "clues": [
+    {
+     "q": "Fullfør setningen …",
+     "label": "«Hiii» – «Okay»",
+     "video": "clip6.mp4",
+     "start": 0,
+     "pause": 5.6,
+     "end": 7,
+     "a": "«Okay»",
+     "rate": 1
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Crewe tractor",
+     "video": "clip7.mp4",
+     "start": 0,
+     "pause": 8.1,
+     "end": 10.3,
+     "a": "«Who told you you could fish here?»",
+     "rate": 1
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Wait a minute, who aaare you?",
+     "video": "clip8.mp4",
+     "start": 0,
+     "pause": 8.2,
+     "end": 10.5,
+     "a": "«Who are you?»",
+     "rate": 1
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "You are now one of my elite employees",
+     "video": "clip9.mp4",
+     "start": 0,
+     "pause": 6,
+     "end": 13,
+     "a": "«You are now one of my elite employees»"
+    },
+    {
+     "q": "Fullfør setningen …",
+     "label": "Googoo gaagaa",
+     "video": "clip10.mp4",
+     "start": 0,
+     "pause": 6.5,
+     "end": 11,
+     "a": "«Lock em up!»",
+     "rate": 1
+    }
+   ]
+  }
+ ]
+}
